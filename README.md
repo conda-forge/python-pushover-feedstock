@@ -1,11 +1,11 @@
-About python-pushover
-=====================
+About python-pushover-feedstock
+===============================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/python-pushover-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/Thibauth/python-pushover
 
 Package license: GPL-3.0-or-later
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/python-pushover-feedstock/blob/main/LICENSE.txt)
 
 Summary: Comprehensive bindings and command line utility for the Pushover notification service
 
